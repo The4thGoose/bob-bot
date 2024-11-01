@@ -1,0 +1,9 @@
+{
+    "name": "bob-bot",
+    "version": "0.1",
+    "title": "Bob-Bot",
+    "author": "The4thGoose",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 1.1.0"],
+    "description": "Renames the construction robots to Bob"
+}
